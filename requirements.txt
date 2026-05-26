@@ -1,0 +1,7 @@
+anthropic>=0.40.0
+requests>=2.31.0
+pdfplumber>=0.11.0
+pyshp>=2.3.1
+rich>=13.7.0
+shapely>=2.0.0
+pyproj>=3.6.0
